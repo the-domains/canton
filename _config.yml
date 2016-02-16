@@ -1,14 +1,29 @@
+name: Canton
+favicon: null
 layout_spectrum: 0.1199309
 typography_spectrum: 0.4444444
+title: Canton Communications
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8028674
-  lightness: 1
-  brandStrength: 0.9910395
   brandColors:
     - '#FFFFFF'
     - '#A8A9AB'
     - '#00A2C1'
     - '#19A94A'
     - '#378F99'
+  brandStrength: 0.9910395
+  lightness: 1
+  saturation: 0.8028674
   rhythmicContrast: 0.9229391
-name: Canton
+purpose: []
