@@ -1,0 +1,14 @@
+layout_spectrum: 0.1199309
+typography_spectrum: 0.4444444
+color:
+  saturation: 0.8028674
+  lightness: 1
+  brandStrength: 0.9910395
+  brandColors:
+    - '#FFFFFF'
+    - '#A8A9AB'
+    - '#00A2C1'
+    - '#19A94A'
+    - '#378F99'
+  rhythmicContrast: 0.9229391
+name: Canton
